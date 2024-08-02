@@ -39,8 +39,8 @@ There are a few things you'll need to have installed to get this up and running.
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/canmios/system_transaction.git
-cd transaction-processing-system
+git clone https://github.com/canmios/franchises
+cd franchises
 ```
 
 ### Build the Project
